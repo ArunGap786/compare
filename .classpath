@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/Jars/poi-4.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/Jars/poi-ooxml-4.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/Jars/selenium-server-standalone-3.141.59.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/Jars/testng-7.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ArunGanesh/Downloads/Compressed/rest-assured-4.2.0-dist/rest-assured-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ArunGanesh/Downloads/Compressed/json-schema-validator-4.2.0-dist/json-schema-validator-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ArunGanesh/Downloads/Compressed/json-path-4.2.0-dist/json-path-4.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
